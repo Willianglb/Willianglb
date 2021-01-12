@@ -1,6 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Willian !
 
- Sistemas de Informação - 👨‍💻
+ Graduando Sistemas de Informação - 👨‍💻
+
+Programador Front-End Compasso UOL - 💻
 
  Florianópolis - Santa Catarina 🌅
 
