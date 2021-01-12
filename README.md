@@ -3,7 +3,6 @@
  Sistemas de Informação - 👨‍💻
 
  Florianópolis - Santa Catarina 🌅
-# 🧠 Sapere aude 
 
 
 # 👨 Social
