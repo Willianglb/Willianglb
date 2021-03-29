@@ -2,7 +2,7 @@
 
  Graduando Sistemas de Informação - 👨‍💻
 
-Programador Front-End - Compasso UOL 💻
+Desenvolvedor - Compasso UOL 💻
 
  Florianópolis - Santa Catarina 🌅
 
