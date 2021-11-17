@@ -4,7 +4,7 @@
 
 React Developer - Compasso UOL 💻
 
- Florianópolis - Santa Catarina 🌅
+ Florianópolis - SC - Brasil 🌅
 
 
 # 👨 Social
