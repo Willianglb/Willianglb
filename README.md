@@ -2,7 +2,7 @@
 
  Graduando Sistemas de Informação 👨‍💻
 
-Desenvolvedor - Compasso UOL 💻
+React Developer - Compasso UOL 💻
 
  Florianópolis - Santa Catarina 🌅
 
