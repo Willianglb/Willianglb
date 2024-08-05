@@ -1,8 +1,8 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Hello, I'm Willian !
 
- Graduando Sistemas de Informação 👨‍💻
+ Graduado Sistemas de Informação 👨‍💻
 
-React Developer - Web and Apps 💻
+Sr React Developer - Web and Apps 💻
 
  Florianópolis - SC - Brasil 🌅
 
