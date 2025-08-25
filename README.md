@@ -1,10 +1,10 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Hello, I'm Willian !
 
- Graduado Sistemas de Informação 👨‍💻
+ Graduated in Computer and Information Systems 👨‍💻
 
-Sr React Developer - Web and Apps 💻
+Lead & Sr React Developer - Web and Apps 💻
 
- Florianópolis - SC - Brasil 🌅
+ Florianópolis - SC - Brazil 🌅
 
 
 # 👨 Social
